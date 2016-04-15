@@ -1,0 +1,7 @@
+*~
+Dancer2-Plugin-Minify-*
+.build/
+.*
+*.ERR
+node_modules/
+*.apib

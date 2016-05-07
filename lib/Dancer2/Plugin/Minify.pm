@@ -9,7 +9,6 @@ use Dancer2::Plugin;
 use HTML::Packer;
 use JavaScript::Packer;
 use CSS::Packer;
-use Moo::Role;
 
 # VERSION
 
